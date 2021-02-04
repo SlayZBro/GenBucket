@@ -1,0 +1,8 @@
+name: Genbucket
+main: me.yourpixel.genbucket.Main
+version: 0.1
+description: d
+
+commands:
+   genbucket:
+     description: shop
